@@ -14,7 +14,14 @@
       "openFiles": [
         "src/App.js"
       ]
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"dbaeumer.vscode-eslint",
+			"esbenp.prettier-vscode",
+			"Orta.vscode-jest"
+		]
+	}
   },
   "portsAttributes": {
     "3000": {
